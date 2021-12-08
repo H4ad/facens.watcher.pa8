@@ -1,0 +1,16 @@
+{
+  "name": "watcher.socket.pa8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "watcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "read-last-line": "^1.1.0",
+    "rxjs": "^7.4.0"
+  }
+}
